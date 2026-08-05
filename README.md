@@ -41,7 +41,7 @@ An intelligent assistant that helps banking customers and employees process comp
 
 | Home Screen | Analysis Results |
 |:---:|:---:|
-| ![Home Screen](screenshots/home.png) | ![Results](screenshots/history.png) |
+| ![Home Screen](screenshots/home.png) | ![History](screenshots/history.png) |
 
 | Improved Complaint | Professional Response |
 |:---:|:---:|
